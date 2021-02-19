@@ -1,0 +1,2 @@
+# ozowTechnicalAssement
+Ozow assement for arbitrary piece of text as input, and returns as output a sorted list of letters. output: aaabcceeeeeffhiiiiklllnnnnooooppprrrrssttttuuy.  and  Conway’s Game of Life (http://en.wikipedia.org/wiki/Conway’s_Game_of_Life) that generates a random placement of cells as it’s initial state and iterates through generations displaying each state. Your program should allow for a configurable board size and number of generations.
